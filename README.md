@@ -56,5 +56,3 @@ An analytical software and systems engineer focused on the entire data lifecycle
   * Designed complex executive reporting filters with multi-level action hooks using business intelligence visualizations.
 
 ---
-
-📬 **Let's Connect:** Look through my private project case studies or message me directly if you're looking to scale your engineering data pipelines or model deployments!
