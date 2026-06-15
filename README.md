@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Abhinav | Computer Engineering Graduate
 
-An analytical software and systems engineer focused on the entire data lifecycle—from structured enterprise database engineering to predictive machine learning architectures. I specialize in building high-performance backend layers, optimizing data warehouse workflows, and deploying responsive user interfaces.
+A passionate and driven Computer Engineering graduate specializing in the full architecture of intelligent systems—from building robust data pipelines and managing enterprise storage to training, optimizing, and deploying high-performance machine learning models. Combining my structural engineering foundation with hands-on experience designing intuitive, dynamic frontend tools, my core focus lies in extracting high-value analytics and bringing scalable AI solutions to production.
 
+📄 **Curriculum Vitae:** [Download / View My CV](https://abhinavsharma.com.np/Abhinav_Sharma_CV.pdf) 
 🌐 **Portfolio Website:** [abhinavsharma.com.np](https://abhinavsharma.com.np)  
 📧 **Email:** [sharmaabhinavv03@gmail.com](mailto:sharmaabhinavv03@gmail.com)
 
