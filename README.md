@@ -2,7 +2,8 @@
 
 An analytical software and systems engineer focused on the entire data lifecycle—from structured enterprise database engineering to predictive machine learning architectures. I specialize in building high-performance backend layers, optimizing data warehouse workflows, and deploying responsive user interfaces.
 
-📡 **Portfolio Application:** Deployed live on Vercel (Ask me for the link to explore the production dashboard dashboards!)
+🌐 **Portfolio Website:** [abhinavsharma.com.np](https://abhinavsharma.com.np)  
+📧 **Email:** [sharmaabhinavv03@gmail.com](mailto:sharmaabhinavv03@gmail.com)
 
 ---
 
